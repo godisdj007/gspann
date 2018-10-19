@@ -1,0 +1,5 @@
+topic\App.class
+topic\controller\TopicController.class
+topic\model\Topic.class
+topic\repository\TopicRepository.class
+topic\service\TopicService.class
